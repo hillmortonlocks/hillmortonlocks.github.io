@@ -3,14 +3,49 @@
 <juiceboxgallery 
 
 	importTitle="NONE"
+	galleryTitle="The 2016 Season"
+	textColor="rgba(0,0,255,1)"
+	thumbFrameColor="rgba(0,0,255,.5)"
 
 >
+  <image imageURL="images/2016-10-30 12.21.12.jpg"
+	thumbURL="thumbs/2016-10-30 12.21.12.jpg"
+	linkURL="images/2016-10-30 12.21.12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.21.12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Hurricane Fly Past in honour of Tony Pickering]]></caption>
+  </image>
+  <image imageURL="images/2016-10-30 12.23.43.jpg"
+	thumbURL="thumbs/2016-10-30 12.23.43.jpg"
+	linkURL="images/2016-10-30 12.23.43.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.23.43.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[The late Tony Pickering in his Hurricane c1940]]></caption>
+  </image>
+  <image imageURL="images/2016-10-30 12.28.45.jpg"
+	thumbURL="thumbs/2016-10-30 12.28.45.jpg"
+	linkURL="images/2016-10-30 12.28.45.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.28.45.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[TV Show "Four in a Bed" Filming at the Locks]]></caption>
+  </image>
+  <image imageURL="images/2016-10-30 12.27.52.jpg"
+	thumbURL="thumbs/2016-10-30 12.27.52.jpg"
+	linkURL="images/2016-10-30 12.27.52.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.27.52.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Floaty Boat one of the contestants of "For in a Bed"]]></caption>
+  </image>
   <image imageURL="images/2016-10-30 17.45.44-2.jpg"
 	thumbURL="thumbs/2016-10-30 17.45.44-2.jpg"
 	linkURL="images/2016-10-30 17.45.44-2.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 17.45.44-2.jpg">
-    <title><![CDATA[]]></title>
+    <title><![CDATA[A Brief Cameo for  Kevin & Taryn in "Four in a Bed"]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.29.54.jpg"
@@ -19,7 +54,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.29.54.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[We replaced a number of tiles]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.29.50.jpg"
 	thumbURL="thumbs/2016-10-30 12.29.50.jpg"
@@ -27,7 +62,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.29.50.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[They even named their boat after the 'Volly Lockie']]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.29.36.jpg"
 	thumbURL="thumbs/2016-10-30 12.29.36.jpg"
@@ -35,15 +70,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.29.36.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/2016-10-30 12.28.45.jpg"
-	thumbURL="thumbs/2016-10-30 12.28.45.jpg"
-	linkURL="images/2016-10-30 12.28.45.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.28.45.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[The Mods drop in]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.28.23.jpg"
 	thumbURL="thumbs/2016-10-30 12.28.23.jpg"
@@ -51,7 +78,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.28.23.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Best Garden on a Boat]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.28.13.jpg"
 	thumbURL="thumbs/2016-10-30 12.28.13.jpg"
@@ -59,15 +86,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.28.13.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/2016-10-30 12.27.52.jpg"
-	thumbURL="thumbs/2016-10-30 12.27.52.jpg"
-	linkURL="images/2016-10-30 12.27.52.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.27.52.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[The canal does not go  that way anymore sir!]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.27.28.jpg"
 	thumbURL="thumbs/2016-10-30 12.27.28.jpg"
@@ -75,7 +94,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.27.28.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Balance Beam Held Captive]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.27.08.jpg"
 	thumbURL="thumbs/2016-10-30 12.27.08.jpg"
@@ -83,15 +102,15 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.27.08.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Tim & Pru passed through and signed our log book]]></caption>
   </image>
-  <image imageURL="images/2016-10-30 12.26.33.jpg"
-	thumbURL="thumbs/2016-10-30 12.26.33.jpg"
-	linkURL="images/2016-10-30 12.26.33.jpg"
+  <image imageURL="images/2016-10-30 12.23.07.jpg"
+	thumbURL="thumbs/2016-10-30 12.23.07.jpg"
+	linkURL="images/2016-10-30 12.23.07.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.26.33.jpg">
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.23.07.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Tim & Pru]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.26.31.jpg"
 	thumbURL="thumbs/2016-10-30 12.26.31.jpg"
@@ -99,7 +118,15 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.26.31.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[The Artists Field Trip]]></caption>
+  </image>
+  <image imageURL="images/2016-10-30 12.26.33.jpg"
+	thumbURL="thumbs/2016-10-30 12.26.33.jpg"
+	linkURL="images/2016-10-30 12.26.33.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.26.33.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Do You KNow What It Is Yet]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.26.29.jpg"
 	thumbURL="thumbs/2016-10-30 12.26.29.jpg"
@@ -115,7 +142,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.26.06.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Luke Kennard Canal Poet ]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.25.40.jpg"
 	thumbURL="thumbs/2016-10-30 12.25.40.jpg"
@@ -123,39 +150,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.25.40.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/2016-10-30 12.24.48.jpg"
-	thumbURL="thumbs/2016-10-30 12.24.48.jpg"
-	linkURL="images/2016-10-30 12.24.48.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.24.48.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/2016-10-30 12.23.07.jpg"
-	thumbURL="thumbs/2016-10-30 12.23.07.jpg"
-	linkURL="images/2016-10-30 12.23.07.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.23.07.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/2016-10-30 12.21.12.jpg"
-	thumbURL="thumbs/2016-10-30 12.21.12.jpg"
-	linkURL="images/2016-10-30 12.21.12.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.21.12.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/2016-10-30 12.23.43.jpg"
-	thumbURL="thumbs/2016-10-30 12.23.43.jpg"
-	linkURL="images/2016-10-30 12.23.43.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.23.43.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Great Flower Display]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.20.01.jpg"
 	thumbURL="thumbs/2016-10-30 12.20.01.jpg"
@@ -163,7 +158,15 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.20.01.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Water Safety Event at Draycote Water]]></caption>
+  </image>
+  <image imageURL="images/2016-10-30 12.24.48.jpg"
+	thumbURL="thumbs/2016-10-30 12.24.48.jpg"
+	linkURL="images/2016-10-30 12.24.48.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.24.48.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Our 9,000th Boat]]></caption>
   </image>
   <image imageURL="images/2016-10-30 12.19.56.jpg"
 	thumbURL="thumbs/2016-10-30 12.19.56.jpg"
@@ -171,7 +174,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-10-30 12.19.56.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[Maurice the Volly Lockie with one of is many fans]]></caption>
   </image>
   <image imageURL="images/2016-08-31 13.15.47.jpg"
 	thumbURL="thumbs/2016-08-31 13.15.47.jpg"
@@ -179,6 +182,6 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2016-08-31 13.15.47.jpg">
     <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[We Are Here To Help]]></caption>
   </image>
 </juiceboxgallery>
