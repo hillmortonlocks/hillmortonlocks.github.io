@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Skittles Night"
+	backgroundColor="rgba(51,51,204,1)"
+	thumbFrameColor="rgba(51,153,255,.5)"
+	useFullscreenExpand="true"
+	textColor="rgba(0,0,255,1)"
+
+>
+  <image imageURL="images/HML_Skittles_071117_001.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_001.jpg"
+	linkURL="images/HML_Skittles_071117_001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_001.jpg">
+    <title><![CDATA[HML_Skittles_071117_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_002.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_002.jpg"
+	linkURL="images/HML_Skittles_071117_002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_002.jpg">
+    <title><![CDATA[HML_Skittles_071117_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_003.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_003.jpg"
+	linkURL="images/HML_Skittles_071117_003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_003.jpg">
+    <title><![CDATA[HML_Skittles_071117_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_004.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_004.jpg"
+	linkURL="images/HML_Skittles_071117_004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_004.jpg">
+    <title><![CDATA[HML_Skittles_071117_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_005.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_005.jpg"
+	linkURL="images/HML_Skittles_071117_005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_005.jpg">
+    <title><![CDATA[HML_Skittles_071117_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_006.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_006.jpg"
+	linkURL="images/HML_Skittles_071117_006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_006.jpg">
+    <title><![CDATA[HML_Skittles_071117_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_007.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_007.jpg"
+	linkURL="images/HML_Skittles_071117_007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_007.jpg">
+    <title><![CDATA[HML_Skittles_071117_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_008.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_008.jpg"
+	linkURL="images/HML_Skittles_071117_008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_008.jpg">
+    <title><![CDATA[HML_Skittles_071117_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_009.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_009.jpg"
+	linkURL="images/HML_Skittles_071117_009.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_009.jpg">
+    <title><![CDATA[HML_Skittles_071117_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_010.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_010.jpg"
+	linkURL="images/HML_Skittles_071117_010.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_010.jpg">
+    <title><![CDATA[HML_Skittles_071117_010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_011.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_011.jpg"
+	linkURL="images/HML_Skittles_071117_011.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_011.jpg">
+    <title><![CDATA[HML_Skittles_071117_011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_012.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_012.jpg"
+	linkURL="images/HML_Skittles_071117_012.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_012.jpg">
+    <title><![CDATA[HML_Skittles_071117_012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_013.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_013.jpg"
+	linkURL="images/HML_Skittles_071117_013.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_013.jpg">
+    <title><![CDATA[HML_Skittles_071117_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_014.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_014.jpg"
+	linkURL="images/HML_Skittles_071117_014.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_014.jpg">
+    <title><![CDATA[HML_Skittles_071117_014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_015.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_015.jpg"
+	linkURL="images/HML_Skittles_071117_015.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_015.jpg">
+    <title><![CDATA[HML_Skittles_071117_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_016.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_016.jpg"
+	linkURL="images/HML_Skittles_071117_016.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_016.jpg">
+    <title><![CDATA[HML_Skittles_071117_016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_017.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_017.jpg"
+	linkURL="images/HML_Skittles_071117_017.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_017.jpg">
+    <title><![CDATA[HML_Skittles_071117_017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_018.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_018.jpg"
+	linkURL="images/HML_Skittles_071117_018.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_018.jpg">
+    <title><![CDATA[HML_Skittles_071117_018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_019.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_019.jpg"
+	linkURL="images/HML_Skittles_071117_019.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_019.jpg">
+    <title><![CDATA[HML_Skittles_071117_019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_020.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_020.jpg"
+	linkURL="images/HML_Skittles_071117_020.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_020.jpg">
+    <title><![CDATA[HML_Skittles_071117_020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_021.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_021.jpg"
+	linkURL="images/HML_Skittles_071117_021.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_021.jpg">
+    <title><![CDATA[HML_Skittles_071117_021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_022.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_022.jpg"
+	linkURL="images/HML_Skittles_071117_022.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_022.jpg">
+    <title><![CDATA[HML_Skittles_071117_022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HML_Skittles_071117_023.jpg"
+	thumbURL="thumbs/HML_Skittles_071117_023.jpg"
+	linkURL="images/HML_Skittles_071117_023.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\2017\skittles\Resized\HML_Skittles_071117_023.jpg">
+    <title><![CDATA[HML_Skittles_071117_023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
