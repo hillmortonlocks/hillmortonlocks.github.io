@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Bird Boxes"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/SAM_2251.jpg"
+	thumbURL="thumbs/SAM_2251.jpg"
+	linkURL="images/SAM_2251.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2251.JPG">
+    <title><![CDATA[SAM_2251]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2252.jpg"
+	thumbURL="thumbs/SAM_2252.jpg"
+	linkURL="images/SAM_2252.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2252.JPG">
+    <title><![CDATA[SAM_2252]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2253.jpg"
+	thumbURL="thumbs/SAM_2253.jpg"
+	linkURL="images/SAM_2253.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2253.JPG">
+    <title><![CDATA[SAM_2253]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2254.jpg"
+	thumbURL="thumbs/SAM_2254.jpg"
+	linkURL="images/SAM_2254.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2254.JPG">
+    <title><![CDATA[SAM_2254]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2255.jpg"
+	thumbURL="thumbs/SAM_2255.jpg"
+	linkURL="images/SAM_2255.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2255.JPG">
+    <title><![CDATA[SAM_2255]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2256.jpg"
+	thumbURL="thumbs/SAM_2256.jpg"
+	linkURL="images/SAM_2256.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2256.JPG">
+    <title><![CDATA[SAM_2256]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2257.jpg"
+	thumbURL="thumbs/SAM_2257.jpg"
+	linkURL="images/SAM_2257.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2257.JPG">
+    <title><![CDATA[SAM_2257]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2258.jpg"
+	thumbURL="thumbs/SAM_2258.jpg"
+	linkURL="images/SAM_2258.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2258.JPG">
+    <title><![CDATA[SAM_2258]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SAM_2259.jpg"
+	thumbURL="thumbs/SAM_2259.jpg"
+	linkURL="images/SAM_2259.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2019\birdboxes\Birdboxes\SAM_2259.JPG">
+    <title><![CDATA[SAM_2259]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
