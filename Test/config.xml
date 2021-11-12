@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showAudioButton="true"
+	showInfoButton="true"
+	showNavButtons="true"
+	showAutoPlayButton="true"
+	backButtonPosition="OVERLAY"
+	backButtonUseIcon="true"
+	galleryTitlePosition="NONE"
+	maxThumbColumns="8"
+	enableDirectLinks="true"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/PXL_20211110_142803407.MP.jpg"
+	thumbURL="thumbs/PXL_20211110_142803407.MP.jpg"
+	linkURL="images/PXL_20211110_142803407.MP.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2021CRT\poppies at Hillmorton\PXL_20211110_142803407.MP.jpg">
+    <title><![CDATA[PXL_20211110_142803407.MP]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PXL_20211110_143031750.jpg"
+	thumbURL="thumbs/PXL_20211110_143031750.jpg"
+	linkURL="images/PXL_20211110_143031750.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2021CRT\poppies at Hillmorton\PXL_20211110_143031750.jpg">
+    <title><![CDATA[PXL_20211110_143031750]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PXL_20211110_143047021.jpg"
+	thumbURL="thumbs/PXL_20211110_143047021.jpg"
+	linkURL="images/PXL_20211110_143047021.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2021CRT\poppies at Hillmorton\PXL_20211110_143047021.jpg">
+    <title><![CDATA[PXL_20211110_143047021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PXL_20211110_142743106.jpg"
+	thumbURL="thumbs/PXL_20211110_142743106.jpg"
+	linkURL="images/PXL_20211110_142743106.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2021CRT\poppies at Hillmorton\PXL_20211110_142743106.jpg">
+    <title><![CDATA[PXL_20211110_142743106]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PXL_20211110_143253144.jpg"
+	thumbURL="thumbs/PXL_20211110_143253144.jpg"
+	linkURL="images/PXL_20211110_143253144.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2021CRT\poppies at Hillmorton\PXL_20211110_143253144.jpg">
+    <title><![CDATA[PXL_20211110_143253144]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PXL_20211110_114258058.jpg"
+	thumbURL="thumbs/PXL_20211110_114258058.jpg"
+	linkURL="images/PXL_20211110_114258058.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2021CRT\poppies at Hillmorton\PXL_20211110_114258058.jpg">
+    <title><![CDATA[PXL_20211110_114258058]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
