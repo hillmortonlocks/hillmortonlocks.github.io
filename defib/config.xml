@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="Defibrillator Awareness Training"
+	showImageNumber="false"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/Title.jpg"
+	thumbURL="thumbs/Title.jpg"
+	linkURL="images/Title.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\Title.jpg">
+    <title><![CDATA[Title]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.41.38.jpg"
+	thumbURL="thumbs/2023-09-28 15.41.38.jpg"
+	linkURL="images/2023-09-28 15.41.38.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.41.38.jpg">
+    <title><![CDATA[2023-09-28 15.41.38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.41.57.jpg"
+	thumbURL="thumbs/2023-09-28 15.41.57.jpg"
+	linkURL="images/2023-09-28 15.41.57.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.41.57.jpg">
+    <title><![CDATA[2023-09-28 15.41.57]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.42.03.jpg"
+	thumbURL="thumbs/2023-09-28 15.42.03.jpg"
+	linkURL="images/2023-09-28 15.42.03.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.42.03.jpg">
+    <title><![CDATA[2023-09-28 15.42.03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.41.46.jpg"
+	thumbURL="thumbs/2023-09-28 15.41.46.jpg"
+	linkURL="images/2023-09-28 15.41.46.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.41.46.jpg">
+    <title><![CDATA[2023-09-28 15.41.46]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.48.12.jpg"
+	thumbURL="thumbs/2023-09-28 15.48.12.jpg"
+	linkURL="images/2023-09-28 15.48.12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.48.12.jpg">
+    <title><![CDATA[2023-09-28 15.48.12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.48.36.jpg"
+	thumbURL="thumbs/2023-09-28 15.48.36.jpg"
+	linkURL="images/2023-09-28 15.48.36.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.48.36.jpg">
+    <title><![CDATA[2023-09-28 15.48.36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.48.56.jpg"
+	thumbURL="thumbs/2023-09-28 15.48.56.jpg"
+	linkURL="images/2023-09-28 15.48.56.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.48.56.jpg">
+    <title><![CDATA[2023-09-28 15.48.56]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.49.05.jpg"
+	thumbURL="thumbs/2023-09-28 15.49.05.jpg"
+	linkURL="images/2023-09-28 15.49.05.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.49.05.jpg">
+    <title><![CDATA[2023-09-28 15.49.05]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.49.41.jpg"
+	thumbURL="thumbs/2023-09-28 15.49.41.jpg"
+	linkURL="images/2023-09-28 15.49.41.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.49.41.jpg">
+    <title><![CDATA[2023-09-28 15.49.41]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.50.25.jpg"
+	thumbURL="thumbs/2023-09-28 15.50.25.jpg"
+	linkURL="images/2023-09-28 15.50.25.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.50.25.jpg">
+    <title><![CDATA[2023-09-28 15.50.25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.50.37.jpg"
+	thumbURL="thumbs/2023-09-28 15.50.37.jpg"
+	linkURL="images/2023-09-28 15.50.37.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.50.37.jpg">
+    <title><![CDATA[2023-09-28 15.50.37]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-09-28 15.54.19.jpg"
+	thumbURL="thumbs/2023-09-28 15.54.19.jpg"
+	linkURL="images/2023-09-28 15.54.19.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\2023-09-28 15.54.19.jpg">
+    <title><![CDATA[2023-09-28 15.54.19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group.jpg"
+	thumbURL="thumbs/group.jpg"
+	linkURL="images/group.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\Defib Training\group.jpg">
+    <title><![CDATA[group]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
