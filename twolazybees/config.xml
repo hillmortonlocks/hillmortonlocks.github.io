@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="Two Lazy Bees"
+	textColor="rgba(255,255,0,1)"
+
+>
+  <image imageURL="images/2014_8k.jpg"
+	thumbURL="thumbs/2014_8k.jpg"
+	linkURL="images/2014_8k.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2022CRT\10Years\NthThousandBoats\2014_8k.jpg">
+    <title><![CDATA[October 2014]]></title>
+    <caption><![CDATA[Volunteer lock keeper Chris presents Two Lazy Bees With a certificate for being our 8,000th boat of 2014]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.07.10.jpg"
+	thumbURL="thumbs/2023-10-04 11.07.10.jpg"
+	linkURL="images/2023-10-04 11.07.10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.07.10.jpg">
+    <title><![CDATA[2023-10-04 11.07.10]]></title>
+    <caption><![CDATA[They came back in October 2023 ]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.09.25.jpg"
+	thumbURL="thumbs/2023-10-04 11.09.25.jpg"
+	linkURL="images/2023-10-04 11.09.25.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.09.25.jpg">
+    <title><![CDATA[2023-10-04 11.09.25]]></title>
+    <caption><![CDATA[But did they still have the certificate?]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.12.09.jpg"
+	thumbURL="thumbs/2023-10-04 11.12.09.jpg"
+	linkURL="images/2023-10-04 11.12.09.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.12.09.jpg">
+    <title><![CDATA[2023-10-04 11.12.09]]></title>
+    <caption><![CDATA[Yes! They did!]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.12.18.jpg"
+	thumbURL="thumbs/2023-10-04 11.12.18.jpg"
+	linkURL="images/2023-10-04 11.12.18.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.12.18.jpg">
+    <title><![CDATA[2023-10-04 11.12.18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.12.21.jpg"
+	thumbURL="thumbs/2023-10-04 11.12.21.jpg"
+	linkURL="images/2023-10-04 11.12.21.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.12.21.jpg">
+    <title><![CDATA[2023-10-04 11.12.21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.12.29.jpg"
+	thumbURL="thumbs/2023-10-04 11.12.29.jpg"
+	linkURL="images/2023-10-04 11.12.29.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.12.29.jpg">
+    <title><![CDATA[2023-10-04 11.12.29]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.05.10.jpg"
+	thumbURL="thumbs/2023-10-04 11.05.10.jpg"
+	linkURL="images/2023-10-04 11.05.10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.05.10.jpg">
+    <title><![CDATA[2023-10-04 11.05.10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.05.15.jpg"
+	thumbURL="thumbs/2023-10-04 11.05.15.jpg"
+	linkURL="images/2023-10-04 11.05.15.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.05.15.jpg">
+    <title><![CDATA[2023-10-04 11.05.15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.06.11.jpg"
+	thumbURL="thumbs/2023-10-04 11.06.11.jpg"
+	linkURL="images/2023-10-04 11.06.11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.06.11.jpg">
+    <title><![CDATA[2023-10-04 11.06.11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-10-04 11.07.09.jpg"
+	thumbURL="thumbs/2023-10-04 11.07.09.jpg"
+	linkURL="images/2023-10-04 11.07.09.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\Camera Uploads\2023-10-04 11.07.09.jpg">
+    <title><![CDATA[2023-10-04 11.07.09]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
