@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="hedgehog Boxes"
+	galleryTitlePosition="TOP"
+	galleryTitleHAlign="CENTER"
+	captionPosition="BELOW_IMAGE"
+	showImageNumber="true"
+	captionHAlign="CENTER"
+	maxCaptionHeight="50"
+
+>
+  <image imageURL="images/IMG-20231110-WA0002.jpg"
+	thumbURL="thumbs/IMG-20231110-WA0002.jpg"
+	linkURL="images/IMG-20231110-WA0002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\IMG-20231110-WA0002.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Marking Out the 8 x 4 Board]]></caption>
+  </image>
+  <image imageURL="images/2023-11-12 09.08.08.jpg"
+	thumbURL="thumbs/2023-11-12 09.08.08.jpg"
+	linkURL="images/2023-11-12 09.08.08.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-12 09.08.08.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Marking Out the 8 x 4 Board]]></caption>
+  </image>
+  <image imageURL="images/PXL_20231110_110644293.MP.jpg"
+	thumbURL="thumbs/PXL_20231110_110644293.MP.jpg"
+	linkURL="images/PXL_20231110_110644293.MP.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\PXL_20231110_110644293.MP.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Cutting the 8 x 4 Board]]></caption>
+  </image>
+  <image imageURL="images/2023-11-23 14.23.04.jpg"
+	thumbURL="thumbs/2023-11-23 14.23.04.jpg"
+	linkURL="images/2023-11-23 14.23.04.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-23 14.23.04.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[The Kit of Parts Ready to Go]]></caption>
+  </image>
+  <image imageURL="images/2023-11-12 14.27.57.jpg"
+	thumbURL="thumbs/2023-11-12 14.27.57.jpg"
+	linkURL="images/2023-11-12 14.27.57.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-12 14.27.57.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-11-13 10.56.11-1.jpg"
+	thumbURL="thumbs/2023-11-13 10.56.11-1.jpg"
+	linkURL="images/2023-11-13 10.56.11-1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-13 10.56.11-1.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[Drilling Fixing Holes]]></caption>
+  </image>
+  <image imageURL="images/2023-11-13 10.56.18b.jpg"
+	thumbURL="thumbs/2023-11-13 10.56.18b.jpg"
+	linkURL="images/2023-11-13 10.56.18b.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-13 10.56.18b.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[Assembly]]></caption>
+  </image>
+  <image imageURL="images/2023-11-16 14.23.10.jpg"
+	thumbURL="thumbs/2023-11-16 14.23.10.jpg"
+	linkURL="images/2023-11-16 14.23.10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-16 14.23.10.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[Inside]]></caption>
+  </image>
+  <image imageURL="images/front.jpg"
+	thumbURL="thumbs/front.jpg"
+	linkURL="images/front.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\front.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/back.jpg"
+	thumbURL="thumbs/back.jpg"
+	linkURL="images/back.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\back.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/side.jpg"
+	thumbURL="thumbs/side.jpg"
+	linkURL="images/side.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\side.jpg">
+    <title><![CDATA[Kevin's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-11-20 11.15.24.jpg"
+	thumbURL="thumbs/2023-11-20 11.15.24.jpg"
+	linkURL="images/2023-11-20 11.15.24.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-20 11.15.24.jpg">
+    <title><![CDATA[Kevin's Finished]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2023-11-20 11.17.21.jpg"
+	thumbURL="thumbs/2023-11-20 11.17.21.jpg"
+	linkURL="images/2023-11-20 11.17.21.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\2023-11-20 11.17.21.jpg">
+    <title><![CDATA[Kevin's Finished]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2270.jpg"
+	thumbURL="thumbs/IMG_2270.jpg"
+	linkURL="images/IMG_2270.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\IMG_2270.JPG">
+    <title><![CDATA[Chris's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2273.jpg"
+	thumbURL="thumbs/IMG_2273.jpg"
+	linkURL="images/IMG_2273.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\IMG_2273.JPG">
+    <title><![CDATA[Chris's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2274.jpg"
+	thumbURL="thumbs/IMG_2274.jpg"
+	linkURL="images/IMG_2274.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\IMG_2274.JPG">
+    <title><![CDATA[Chris's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.620.jpg"
+	thumbURL="thumbs/screenshot.620.jpg"
+	linkURL="images/screenshot.620.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\screenshot.620.jpg">
+    <title><![CDATA[Maurice's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.621.jpg"
+	thumbURL="thumbs/screenshot.621.jpg"
+	linkURL="images/screenshot.621.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\screenshot.621.jpg">
+    <title><![CDATA[Maurice's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.622.jpg"
+	thumbURL="thumbs/screenshot.622.jpg"
+	linkURL="images/screenshot.622.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\screenshot.622.jpg">
+    <title><![CDATA[Maurice's Build]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.624.jpg"
+	thumbURL="thumbs/screenshot.624.jpg"
+	linkURL="images/screenshot.624.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\screenshot.624.jpg">
+    <title><![CDATA[Maurice's Finished]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.625.jpg"
+	thumbURL="thumbs/screenshot.625.jpg"
+	linkURL="images/screenshot.625.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\screenshot.625.jpg">
+    <title><![CDATA[Maurice's Finished]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.623.jpg"
+	thumbURL="thumbs/screenshot.623.jpg"
+	linkURL="images/screenshot.623.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Activity Photos\HedgehogBox\screenshot.623.jpg">
+    <title><![CDATA[Maurice's Finished]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HedgeHogBox.jpg"
+	thumbURL="thumbs/HedgeHogBox.jpg"
+	linkURL="images/HedgeHogBox.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Hedgehog Boxes\HedgeHogBox.jpg">
+    <title><![CDATA[Plans]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/screenshot.626.jpg"
+	thumbURL="thumbs/screenshot.626.jpg"
+	linkURL="images/screenshot.626.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Hedgehog Boxes\screenshot.626.jpg">
+    <title><![CDATA[Cutting Layout]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fixing1.jpg"
+	thumbURL="thumbs/Fixing1.jpg"
+	linkURL="images/Fixing1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Hedgehog Boxes\Fixing1.jpg">
+    <title><![CDATA[Suggested Fixing Detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fixing2.jpg"
+	thumbURL="thumbs/fixing2.jpg"
+	linkURL="images/fixing2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@CRT\@2023CRT\Hedgehog Boxes\fixing2.jpg">
+    <title><![CDATA[Suggested Fixing Detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
